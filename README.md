@@ -12,6 +12,7 @@ OOP yaklaşımı, yazılım sistemlerini daha modüler, yeniden kullanılabilir 
 Bu proje kapsamında OOP’nin temel prensipleri Python üzerinde örneklenmiştir.
 
 2. Kullanılan OOP Prensipleri
+   
 2.1 Encapsulation (Kapsülleme)
 
 Encapsulation, verilerin ve bu verilere ait metotların tek bir sınıf içinde toplanması ve dış erişime kontrollü şekilde kapatılmasıdır. Amaç, veri bütünlüğünü korumak ve yetkisiz erişimi engellemektir.
@@ -27,6 +28,7 @@ Temel kazanım:
 Veri güvenliği
 Kontrollü erişim
 Hata riskinin azaltılması
+
 2.2 Inheritance (Kalıtım)
 
 Inheritance, bir sınıfın başka bir sınıfın özelliklerini ve metotlarını devralmasını sağlar. Bu sayede kod tekrarının önüne geçilir ve hiyerarşik yapı oluşturulur.
@@ -41,6 +43,7 @@ Temel kazanım:
 Kod tekrarının azaltılması
 Genişletilebilir yapı
 Mantıksal sınıf hiyerarşisi
+
 2.3 Polymorphism (Çok Biçimlilik)
 
 Polymorphism, aynı metot isminin farklı sınıflarda farklı davranışlar göstermesidir. Bu sayede ortak bir arayüz üzerinden farklı nesneler kullanılabilir.
@@ -52,6 +55,7 @@ Temel kazanım:
 Esnek yapı
 Runtime davranış değişimi
 Ortak arayüz kullanımı
+
 2.4 Abstraction (Soyutlama)
 
 Abstraction, bir sistemin yalnızca gerekli özelliklerini gösterip detaylarını gizleme prensibidir. Kullanıcıya “ne yapıldığı” bilgisi sunulur, “nasıl yapıldığı” bilgisi gizlenir.
