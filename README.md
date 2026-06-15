@@ -97,9 +97,7 @@ Her klasör ilgili OOP prensibini açıklayan örnek kodları içermektedir.
 
 5. Sonuç
 
-Bu çalışma kapsamında OOP prensiplerinin Python üzerinde nasıl uygulanabileceği gösterilmiştir. Her bir prensip basitleştirilmiş örneklerle açıklanmış ve gerçek dünya senaryosu olarak ödeme sistemi üzerinden bütünleştirilmiştir.
-
-Abstraction ve Polymorphism birlikte kullanılarak esnek ve genişletilebilir bir yapı oluşturulmuştur.
+Bu çalışma kapsamında OOP prensiplerinin Python üzerinde nasıl uygulanabileceği gösterilmiştir. Her bir prensip basitleştirilmiş örneklerle açıklanmıştır.
 
 6. Geliştirici
 
